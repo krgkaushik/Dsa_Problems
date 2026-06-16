@@ -1,1 +1,4 @@
+SET
+set<vector<int>>s;
 
+vector<vector<int>>ans(s.begin(),s.end());
